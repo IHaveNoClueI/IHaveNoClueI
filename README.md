@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IHaveNoClueI
+- 👀 I’m interested in Python, C
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on [Anything]
+- 📫 How to reach me ...
